@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TodoWise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_all">Reset List</string>
+    <string name="restart_app">Restart App</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="discover">Discover</string>
+    <string name="enter_your_work">Enter your work</string>
+    <string name="enter_basic_title">Write something</string>
+    <string name="add_your_work">ADD YOUR WORK</string>
+    <string name="click_for_date">Click for time</string>
+    <string name="click_for_date1">Click for date</string>
+    <string name="click_sounds">Click sounds</string>
+    <string name="open_music_inside_app">Background Music</string>
+    <string name="settings">Settings</string>
+    <string name="all_right_reserved">© All rights reserved</string>
+    <string name="report_a_problem">Report a problem</string>
+    <string name="provide_problem_and_send_us">Provide problem and send us</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="about_us">About Us</string>
+    <string name="click_to_enter_basic_text">Click to enter basic text</string>
+    <string name="click_to_enter_work">Click to enter work</string>
+    <string name="home">home</string>
+</resources>
